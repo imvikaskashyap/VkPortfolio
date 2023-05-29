@@ -24,13 +24,13 @@ import expressjs from "./tech/expressjs.png";
 import jobSearch from "./job-search.png";
 import freelance from "./icons8-freelance-64.png";
 
-import cpd from "./image/cpd.gif";
-import tfm from "./image/tfm.gif";
-import ivideo from "./image/ivideo.gif";
-import ecom from "./image/ecom.gif";
-import busyToddler from "./image/busy.gif";
-import textify from "./image/textify.gif";
-import spotify from "./image/spotify.gif";
+import cpd from "./image/cpd2.png";
+import tfm from "./image/tfm1.png";
+import ivideo from "./image/ivideo1.png";
+import ecom from "./image/ecom1.png";
+import busyToddler from "./image/busy1.png";
+import textify from "./image/busy1.png";
+import spotify from "./image/spotify.png";
 
 export {
 	VK_logo,
