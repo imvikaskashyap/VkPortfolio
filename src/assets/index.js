@@ -21,15 +21,15 @@ import mysql from "./tech/mysql.png";
 import chakra from "./tech/chakraui.png";
 import expressjs from "./tech/expressjs.png";
 
-import jobSearch from "./job-search.png";
 import freelance from "./icons8-freelance-64.png";
+import nuk9 from "./nuk 9.png";
 
 import cpd from "./image/cpd2.png";
 import tfm from "./image/tfm1.png";
 import ivideo from "./image/ivideo1.png";
 import ecom from "./image/ecom1.png";
 import busyToddler from "./image/busy1.png";
-import textify from "./image/busy1.png";
+import textify from "./image/textify1.png";
 import spotify from "./image/spotify.png";
 
 export {
@@ -52,7 +52,7 @@ export {
 	redux,
 	tailwind,
 	bootstrap,
-	jobSearch,
+	nuk9,
 	freelance,
 	cpd,
 	tfm,
